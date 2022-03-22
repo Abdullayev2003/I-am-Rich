@@ -1,1 +1,1 @@
-# I-am-Rich
+# My project
